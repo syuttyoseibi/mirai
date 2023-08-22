@@ -4,7 +4,7 @@ const symbol = require('/node_modules/symbol-sdk')
 const GENERATION_HASH = '57F7DA205008026C776CB6AED843393F04CD458E0AA2D9F1D5F31A402072B2D6'
 const EPOCH = 1615853185
 const XYM_ID = '2A30D04FF35E8641'
-const NODE_URL = 'https://sym-main.opening-line.jp:3001'
+const NODE_URL = 'https://ik1-432-48199.vs.sakura.ne.jp:3001'
 const NET_TYPE = symbol.NetworkType.MAIN_NET
 
 
